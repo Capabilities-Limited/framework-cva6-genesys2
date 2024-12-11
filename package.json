@@ -1,0 +1,10 @@
+{
+    "name": "framework-cva6-genesys2",
+    "version": "0.0.0",
+    "description": "Software development kit for baremetal applications on CVA6",
+    "keywords": [
+      "framework",
+      "sdk",
+      "risc-v"
+    ]
+}
